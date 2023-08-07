@@ -15,5 +15,5 @@ Scenario: Create, Get,  Delete  Role User record
 
   Examples:
   | WorkflowRoleId | Id                                     | UserName         | Email                        | Version | StatusCode |
-  | 20             | b43e1439-62a4-42e2-80f7-58917d6b280c   | autotest         | ybuiko@mobilehealth.com      | V1.0    | 200        |
-  | 18             | b43e1439-62a4-42e2-80f7-58917d6b280c   | autotest         | ybuiko@mobilehealth.com      | V1.0    | 200        |
+  | 20             | b43e1439-62a4-42e2-80f7-58917d6b280c   | autotest         | Test@test.com      | V1.0    | 200        |
+  | 18             | b43e1439-62a4-42e2-80f7-58917d6b280c   | autotest         | Test@test.com      | V1.0    | 200        |
